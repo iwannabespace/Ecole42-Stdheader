@@ -5,7 +5,7 @@ As we all know we have to use `Stdheader` option of vim to set our headers to fi
 
 Now using this project you can set the headers of all files of the directory you choose.
 
-First you need to compile `Handler.cpp` file with the following command `g++ Header.cpp -std=c++17`
+First you need to compile `handler.cpp` file with the following command `g++ handler.cpp -std=c++17`
 
 Then you'll need to execute the program but program takes two arguments, first one is the directory of the files and second one is the extension of the files.
 
